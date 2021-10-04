@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yrualive
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on different projects
 - 📫 How to reach me- You don't want to, trust me
 
